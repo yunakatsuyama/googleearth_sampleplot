@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <NetworkLink>
+    <name>Local auto-refresh KML</name>
+    <Link>
+      <href>merge3d.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>1</refreshInterval>  
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
+                 
+                    

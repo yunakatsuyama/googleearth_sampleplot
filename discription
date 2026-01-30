@@ -1,0 +1,3 @@
+merge_realtime_3D.py creates and updates merge3d.kml every second (every time the instrument gives a data line).
+local.kml has the network link which read merge3d.kml file and refresh the goodle earth with the defined invervals.
+Put local.kml file to "Temporary Places" on Google earth pro, while running merge_realtime_3D.py
