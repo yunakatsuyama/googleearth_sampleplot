@@ -1,0 +1,1 @@
+# googleearth_sampleplot
